@@ -17,6 +17,6 @@ public class HelloWorld {
 	
 	public static void whatFor (String word) {
 		
-		System.out.println(word  + "what for?");
+		System.out.println(word  + "what for??");
 	}
 }
